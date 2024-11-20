@@ -22,16 +22,16 @@ A dynamic counter plugin that increments by a random value every minute and save
 
 ## Frequently Asked Questions
 
-How do I display the counter?
+### How do I display the counter?
 Use the `[fhdcu_dynamic_counter]` shortcode in any page or post editor.
 
-Can I customize the starting value of the counter? 
+### Can I customize the starting value of the counter? 
 Yes, you can manually set a custom value from the **Counter Settings** page in the WordPress admin.
 
-What happens when I deactivate the plugin?
+### What happens when I deactivate the plugin?
 The scheduled event that increments the counter is automatically cleared, and the counter will stop updating until the plugin is reactivated.
 
-Can I style the counter? 
+### Can I style the counter? 
 Yes, the plugin includes default CSS and JavaScript for styling, which can be overridden by adding custom styles in your theme or plugin.
 
 ### Changelog 
