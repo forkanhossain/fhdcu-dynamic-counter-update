@@ -1,0 +1,13 @@
+#fhdcu-counter {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+    white-space: nowrap; /* Prevents line breaks */
+    width: 100%;         /* Ensures it can expand as needed */
+}
+
+.fhdcu-transactions-counter {
+    display: inline-block; /* Helps with layout consistency */
+    min-width: 200px;      /* Adjust this width based on design needs */
+}
